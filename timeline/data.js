@@ -34,9 +34,9 @@ var tasksData = [
         [ 'member5', 'task32', new Date(2016, 10, 29), new Date(2016, 11, 8) ],
         [ 'member5', 'task33', new Date(2016, 11, 5), new Date(2016, 11, 6) ],
         [ 'member5', 'task34', new Date(2016, 11, 12), new Date(2016, 11, 14) ],
-        [ 'LDEV-S Hassan', 'task1', new Date(2016, 10, 1), new Date(2017, 0, 2) ],
-        [ 'LDEV-S Hassan', 'task35', new Date(2016, 10, 1), new Date(2016, 10, 3) ],
-        [ 'LDEV-S Hassan', 'task36', new Date(2016, 10, 6), new Date(2016, 10, 15) ],
-        [ 'LDEV-S Hassan', 'task37', new Date(2016, 11, 5), new Date(2016, 11, 6) ],
-        [ 'LDEV-S Hassan', 'task34', new Date(2016, 11, 7), new Date(2016, 11, 9) ]
+        [ 'member6', 'task1', new Date(2016, 10, 1), new Date(2017, 0, 2) ],
+        [ 'member6', 'task35', new Date(2016, 10, 1), new Date(2016, 10, 3) ],
+        [ 'member6', 'task36', new Date(2016, 10, 6), new Date(2016, 10, 15) ],
+        [ 'member6', 'task37', new Date(2016, 11, 5), new Date(2016, 11, 6) ],
+        [ 'member6', 'task34', new Date(2016, 11, 7), new Date(2016, 11, 9) ]
       ];
